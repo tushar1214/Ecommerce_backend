@@ -27,3 +27,29 @@ Technical Details :
 * Email using Nodemailer - using GMail SMTP system
 * Payments using Stripe - PaymentIntent based custom flow
 
+Screenshots :
+
+* Signup page
+
+![ScreenShot](SS1.png)
+
+* Admin profile page
+  
+![ScreenShot](SS2.png)
+
+* Checkout page
+
+![ScreenShot](SS3.png)
+
+* Products page
+
+![ScreenShot](SS4.png)
+
+* Cart page
+
+![ScreenShot](SS5.png)
+
+* Admin panel
+
+![ScreenShot](SS6.png)
+
